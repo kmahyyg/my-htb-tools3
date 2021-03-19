@@ -1,3 +1,12 @@
 [submodule "PEzor"]
 	path = PEzor
 	url = https://github.com/phra/PEzor
+[submodule "wclang"]
+	path = wclang
+	url = https://github.com/tpoechtrager/wclang
+[submodule "donut"]
+	path = donut
+	url = https://github.com/TheWover/donut
+[submodule "TDOA_RCE"]
+	path = TDOA_RCE
+	url = https://github.com/xinyu2428/TDOA_RCE
