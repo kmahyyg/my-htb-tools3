@@ -13,3 +13,6 @@
 [submodule "Sunflower_get_Password"]
 	path = Sunflower_get_Password
 	url = https://github.com/wafinfo/Sunflower_get_Password
+[submodule "SigThief"]
+	path = SigThief
+	url = https://github.com/secretsquirrel/SigThief
