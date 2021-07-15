@@ -25,3 +25,6 @@
 [submodule "pingtunnel"]
 	path = pingtunnel
 	url = https://github.com/esrrhs/pingtunnel
+[submodule "dnscat2"]
+	path = dnscat2
+	url = https://github.com/iagox86/dnscat2
