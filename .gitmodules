@@ -16,3 +16,12 @@
 [submodule "SigThief"]
 	path = SigThief
 	url = https://github.com/secretsquirrel/SigThief
+[submodule "iox"]
+	path = iox
+	url = https://github.com/EddieIvan01/iox
+[submodule "udptunnel"]
+	path = udptunnel
+	url = https://github.com/jingyu/udptunnel
+[submodule "pingtunnel"]
+	path = pingtunnel
+	url = https://github.com/esrrhs/pingtunnel
