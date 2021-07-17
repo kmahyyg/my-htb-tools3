@@ -28,3 +28,6 @@
 [submodule "dnscat2"]
 	path = dnscat2
 	url = https://github.com/iagox86/dnscat2
+[submodule "WinPwn"]
+	path = WinPwn
+	url = https://github.com/S3cur3Th1sSh1t/WinPwn
