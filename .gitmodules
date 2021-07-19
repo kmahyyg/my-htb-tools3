@@ -31,3 +31,6 @@
 [submodule "WinPwn"]
 	path = WinPwn
 	url = https://github.com/S3cur3Th1sSh1t/WinPwn
+[submodule "phpggc"]
+	path = phpggc
+	url = https://github.com/ambionics/phpggc
