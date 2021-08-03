@@ -34,3 +34,6 @@
 [submodule "phpggc"]
 	path = phpggc
 	url = https://github.com/ambionics/phpggc
+[submodule "CDK"]
+	path = CDK
+	url = https://github.com/cdk-team/CDK
