@@ -37,3 +37,6 @@
 [submodule "CDK"]
 	path = CDK
 	url = https://github.com/cdk-team/CDK
+[submodule "seeyon_exp"]
+	path = seeyon_exp
+	url = https://github.com/Summer177/seeyon_exp
